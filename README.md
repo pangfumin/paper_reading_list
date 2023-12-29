@@ -18,3 +18,6 @@
 ## Numerical Optimization
 - [Admm-tutorial] http://www.jbento.info/slides/ADMM_Tutorial_ODSC_2018.pdf
 
+## Books
+- Factorization methods for discrete sequential estimation
+
